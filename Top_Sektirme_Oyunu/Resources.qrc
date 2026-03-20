@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/0.jpg</file>
+        <file>images/patlamis.png</file>
+    </qresource>
+</RCC>
