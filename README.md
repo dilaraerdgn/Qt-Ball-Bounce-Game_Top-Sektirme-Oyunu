@@ -40,10 +40,10 @@ Bu proje, **C++** ve **Qt Framework** kullanılarak geliştirilmiş, fizik taban
 
 ```text
  
-├── main.cpp          # Uygulama başlatıcı
-├── mainwindow.cpp    # Oyun döngüsü, çarpışma ve fare kontrol mantığı
-├── mainwindow.h      # Sinyal ve değişken tanımlamaları
-└── mainwindow.ui     # Ana pencere tasarımı
+├── main.cpp                  # Uygulama başlatıcı
+├── mainwindow.cpp            # Oyun döngüsü, çarpışma ve fare kontrol mantığı
+├── mainwindow.h              # Sinyal ve değişken tanımlamaları
+└── mainwindow.ui             # Ana pencere tasarımı
 ├
-└── images/           # Top ve patlama görsel varlıkları
-└── Odev2_2360.pro    # Qt yapılandırma dosyası
+└── images/                   # Top ve patlama görsel varlıkları
+└── Top_Sektirme_Oyunu.pro    # Qt yapılandırma dosyası
